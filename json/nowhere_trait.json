@@ -1,0 +1,57 @@
+{
+    "volumatomy": {
+        "0": "5a-9",
+        "1": "5a-20",
+        "2": "2b-9,30",
+        "3": "3b-20,20,9",
+        "4": "3b-9,25,25",
+        "5": "5a-5",
+        "6": "flatcubic",
+        "7": "1a-200"
+    },
+    "fog": {
+        "0": "A",
+        "1": "Ic",
+        "2": "2c",
+        "3": "Iu",
+        "4": "m",
+        "5": "2u",
+        "6": "l",
+        "7": "a",
+        "8": "t",
+        "9": "i",
+        "a": "o",
+        "b": "n"
+    },
+    "xs": {
+        "0": "why",
+        "1": "sincos",
+        "2": "grass",
+        "3": "...",
+        "4": "cube",
+        "5": "enlightened",
+        "6": "humid",
+        "7": "evident",
+        "8": "hamster ball",
+        "9": "wish goods",
+        "a": "rabbit enter",
+        "b": "human"
+    },
+    "architexture": {
+        "0": "6,SSL",
+        "1": "6,S_L",
+        "2": "7,S_L",
+        "3": "8,S_L",
+        "4": "9,S_L",
+        "5": "10,S_L",
+        "6": "15,SSL",
+        "7": "15,S_L",
+        "8": "15,S__"
+    },
+    "mental climate": {
+        "0": "before-life",
+        "1": "subreal",
+        "2": "surconscious",
+        "3": "after-life"
+    }
+}
